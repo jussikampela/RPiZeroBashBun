@@ -1,0 +1,7 @@
+chmod +x /BashBunny/HID.sh
+chmod +x /BashBunny/apache.sh
+chmod +x /BashBunny/UPDATE_WEBSERVER.sh
+chmod +x /BashBunny/ETHERNET.sh
+
+
+exit 0
