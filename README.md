@@ -1,1 +1,2 @@
 # RPiZeroBashBun
+mkdir /BashBunny
