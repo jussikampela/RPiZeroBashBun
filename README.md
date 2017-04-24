@@ -1,5 +1,22 @@
 # RPiZeroBashBun
 mkdir /BashBunny
+rm /etc/rc.local
+cp rc.local /etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 When using HID script, just copy your payload to /boot folder
 
